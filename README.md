@@ -1,6 +1,6 @@
 # GVR Docs
 Dokumentasi api gvr ygy
-Cek file [axeron.js](https://github.com/S4mpdor1a/gvrdocs/axeron.js), lebih lengkap (walau banyak comment block :v)
+Cek file [axeron.js](https://github.com/S4mpdor1a/gvrdocs/blob/main/axeron.js), lebih lengkap (walau banyak comment block :v)
 
 # Axeron Instances
 class
