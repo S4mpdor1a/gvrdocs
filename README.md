@@ -1,6 +1,8 @@
 # GVR Docs
 Dokumentasi api gvr ygy
 
+# Axeron Instances
+class
 ## Exec
 Execute shell command
 ```javascript
@@ -10,7 +12,7 @@ Axeron.exec('echo hi');
 ```
 
 ## Toast
-Ya tau sendiri lah
+Nampilin notifikasi kayak roti
 ```javascript
 Axeron.toast(titleOrMessage, messageOrDuration, duration);
 // example:
@@ -21,5 +23,15 @@ Optimalkan aplikasi
 ```javascript
 optimizeApp(packageName = null);
 // example:
-optimizeApp('com.dts.freefireth') ;
+optimizeApp('com.dts.freefireth');
+```
+
+# StormDownload
+class
+## Download
+Download sesuatu dari url
+```javascript
+download(url, path);
+// example:
+download('https://pomf2.lain.la/f/i6c1h78o.jpg', '/sdcard/hello.jpg');
 ```
