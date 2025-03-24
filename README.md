@@ -1,5 +1,6 @@
 # GVR Docs
 Dokumentasi api gvr ygy
+Cek file [axeron.js](https://github.com/S4mpdor1a/gvrdocs/axeron.js), lebih lengkap (walau banyak comment block :v)
 
 # Axeron Instances
 class
@@ -21,9 +22,9 @@ Axeron.toast('apa hah', 10);
 ## OptimizeApp
 Optimalkan aplikasi
 ```javascript
-optimizeApp(packageName = null);
+Axeron.optimizeApp(packageName = null);
 // example:
-optimizeApp('com.dts.freefireth');
+Axeron.optimizeApp('com.dts.freefireth');
 ```
 
 # StormDownload
